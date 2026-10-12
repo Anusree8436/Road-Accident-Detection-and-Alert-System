@@ -107,6 +107,3 @@ Author
 
 Anusree K
 
-Computer Science and Engineering Graduate
-
-Interested in Artificial Intelligence, Machine Learnin
